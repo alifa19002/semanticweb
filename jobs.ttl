@@ -1,0 +1,110 @@
+@prefix ab: <http://jobs.com/>
+@prefix d: <http://jobs.com/ns/data#>
+
+        // "easyrdf/easyrdf": "^1.1",
+
+
+ab:P01        d:namaLengkap	        "Khairunnissa Ataqiyah" ;
+             d:nomorTelp       	    "081278906544" ;
+             d:domisili             "Bekasi" ;
+             d:posisi             "Guru";
+             d:tempatKerja                 "SDIT Ulul Albab";
+             d:gaji             "4000000".
+
+ab:P02        d:namaLengkap	        "Nadhifah Qothrunnada" ;
+             d:nomorTelp       	"08234908765" ;
+             d:domisili              "Jakarta" ;
+             d:posisi             "Jurnalis";
+             d:tempatKerja                 "MNC Media";
+             d:gaji             "4200000".            
+
+ab:P03        d:namaLengkap	        "Alma Nuridha" ;
+             d:nomorTelp       	"08780912336" ;
+             d:domisili              "Malang" ;
+             d:posisi             "Content Creator";
+             d:tempatKerja                 "Mukbangyuk Youtube Channel";
+             d:gaji             "3500000".            
+
+ab:P04        d:namaLengkap	        "Hadid Rizky" ;
+             d:nomorTelp       	"082298778765" ;
+             d:domisili              "Bekasi" ;
+             d:posisi             "Teknisi";
+             d:tempatKerja                 "PT Sukopindo";
+             d:gaji             "5100000".
+
+ab:P05        d:namaLengkap	        "Rizki Akbar" ;
+             d:nomorTelp       	"081281986114" ;
+             d:domisili              "Bogor" ;
+             d:posisi             "Editor";
+             d:tempatKerja                 "Haru Publisher";
+             d:gaji             "3800000".
+             
+ab:P06        d:namaLengkap	        "Alfian Nur" ;
+             d:nomorTelp       	"081823198007" ;
+             d:domisili              "Depok";
+             d:posisi             "Copy Writer";
+             d:tempatKerja                 "Haru Publisher";
+             d:gaji             "4000000".
+
+ab:P07        d:namaLengkap	        "Yulianti Pujianti" ;
+             d:nomorTelp       	"081387546788" ;
+             d:domisili              "Bekasi" ;
+             d:posisi             "Guru";
+             d:tempatKerja                 "SMAN 1 Cibitung";
+             d:gaji             "4200000".
+
+ab:P08        d:namaLengkap	        "Ainur Mardiyah" ;
+             d:nomorTelp       	"081167864566" ;
+             d:domisili              "Bekasi" ;
+             d:posisi             "Guru";
+             d:tempatKerja                 "SDIT Ulul Albab";
+             d:gaji             "4000000".
+
+ab:P09        d:namaLengkap	        "Titi Rachmawati" ;
+             d:nomorTelp       	"081236756748" ;
+             d:domisili              "Depok" ;
+             d:posisi             "Editor";
+             d:tempatKerja                 "Spring Publisher";
+             d:gaji             "3900000".
+
+ab:P10        d:namaLengkap	        "Hafid Jabar" ;
+             d:nomorTelp       	"082310108765" ;
+             d:domisili              "Jakarta" ;
+             d:posisi             "Jurnalis";
+             d:tempatKerja                 "PT Lativi Mediakarya";
+             d:gaji             "4700000".
+             
+ab:P11        d:namaLengkap	        "Rania Andini" ;
+             d:nomorTelp       	"088878906754" ;
+             d:domisili              "Yogyakarta" ;
+             d:posisi             "Translator";
+             d:tempatKerja                 "PT Star Indonesia";
+             d:gaji             "5000000".
+
+ab:P12        d:namaLengkap	        "Putri Oktaviana" ;
+             d:nomorTelp       	"082267857896" ;
+             d:domisili              "Jakarta" ;
+             d:posisi             "Translator";
+             d:tempatKerja                 "PT Hive Kreasi";
+             d:gaji             "5100000".
+
+ab:P13        d:namaLengkap	        "Anindya Nurhasanah" ;
+             d:nomorTelp       	"081276587677" ;
+             d:domisili              "Sukoharjo" ;
+             d:posisi             "Desainer Grafis";
+             d:tempatKerja                 "CV Zweena";
+             d:gaji             "5500000".
+
+ab:P14        d:namaLengkap	        "Jihan Aulia Sabrina" ;
+             d:nomorTelp       	"0822816381772" ;
+             d:domisili              "Yogyakarta" ;
+             d:posisi             "Desainer Interior";
+             d:tempatKerja                 "Bali Architect";
+             d:gaji             "6000000".
+
+ab:P15        d:namaLengkap	        "Nadhira Silvia" ;
+             d:nomorTelp       	"081782579366" ;
+             d:domisili              "Jakarta" ;
+             d:posisi             "3D Desainer";
+             d:tempatKerja                 "PT Mirah Global";
+             d:gaji             "5600000".
