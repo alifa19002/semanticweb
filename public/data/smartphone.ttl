@@ -1,0 +1,74 @@
+# Nama      : Putri Ainur Fitri
+# NPM       : 140810190052
+# Kelas     : B
+# Link      : http://localhost:3030/smartphone
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix d:  <http://phonology.com/ns/data#> .
+@prefix i: <http://phonology.com/ns/info#> .
+
+# Smartphone
+d:p0001 i:phoneID "p0001";
+        i:phoneName "iPhone 13 Pro" ; 
+        i:phoneBrand "Apple";
+        i:batteryCapacity "3.227";
+        i:chipset "A15 Bionic";
+        i:price "17.500.000";
+        i:weight "203";
+        i:operatingSystem "iOS" ;
+        i:RAM "4 GB" ;
+        i:memoryCapacity "128 GB" ;
+        i:diagonalWidth "6,1" ;
+        i:camera "12 MP" .
+
+d:p0002 i:phoneID "p0002";
+        i:phoneName "iPhone 13 Mini" ; 
+        i:phoneBrand "Apple";
+        i:batteryCapacity "3.227";
+        i:chipset "A15 Bionic";
+        i:price "13.199.000";
+        i:weight "198";
+        i:operatingSystem "iOS" ;
+        i:RAM "4 GB" ;
+        i:memoryCapacity "256 GB" ;
+        i:diagonalWidth "6,1" ;
+        i:camera "12 MP" .
+
+d:p0003 i:phoneID "p0003";
+        i:phoneName "iPhone 13 Pro Max" ; 
+        i:phoneBrand "Apple";
+        i:batteryCapacity "3.227";
+        i:chipset "A15 Bionic";
+        i:price "13.199.000";
+        i:weight "238";
+        i:operatingSystem "iOS" ;
+        i:RAM "6 GB" ;
+        i:memoryCapacity "128 GB" ;
+        i:diagonalWidth "6,1" ;
+        i:camera "12 MP" .
+
+d:p0004 i:phoneID "p0004";
+        i:phoneName "vivo T2x" ; 
+        i:phoneBrand "Vivo";
+        i:batteryCapacity "6.000";
+        i:chipset "MediaTek Dimensity 1300";
+        i:price "3.700.000";
+        i:weight "200";
+        i:operatingSystem "Android" ;
+        i:RAM "8 GB" ;
+        i:memoryCapacity "128 GB" ;
+        i:diagonalWidth "6,58" ;
+        i:camera "50 MP" .
+
+d:p0005 i:phoneID "p0005";
+        i:phoneName "Samsung Galaxy M13" ; 
+        i:phoneBrand "Samsung";
+        i:batteryCapacity "5.000";
+        i:chipset "Exynos 850";
+        i:price "";
+        i:weight "192";
+        i:operatingSystem "Android" ;
+        i:RAM "4 GB" ;
+        i:memoryCapacity "64 GB" ;
+        i:diagonalWidth "6,6" ;
+        i:camera "50 MP" .

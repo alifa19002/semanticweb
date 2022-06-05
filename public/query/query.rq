@@ -1,0 +1,20 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX d: <http://phonology.com/ns/data#>
+PREFIX i: <http://phonology.com/ns/info#>
+
+SELECT ?phoneID ?phoneName ?phoneBrand ?batteryCapacity ?chipset ?price ?weight ?operatingSystem ?RAM ?memoryCapacity ?diagonalWidth ?camera
+WHERE
+{ 
+    ?phone  i:phoneID ?phoneID ;
+            i:phoneName ?phoneName;
+            i:phoneBrand ?phoneBrand;
+            i:batteryCapacity ?batteryCapacity;
+            i:chipset ?chipset;
+            i:price ?price;
+            i:weight ?weight;
+            i:operatingSystem ?operatingSystem;
+            i:RAM ?RAM;
+            i:memoryCapacity ?memoryCapacity;
+            i:diagonaalWidth ?diagonalWidth;
+            i:camera ?camera.
+}
