@@ -1,9 +1,6 @@
 @prefix ab: <http://jobs.com/>
 @prefix d: <http://jobs.com/ns/data#>
 
-        // "easyrdf/easyrdf": "^1.1",
-
-
 ab:P01        d:namaLengkap	        "Khairunnissa Ataqiyah" ;
              d:nomorTelp       	    "081278906544" ;
              d:domisili             "Bekasi" ;
